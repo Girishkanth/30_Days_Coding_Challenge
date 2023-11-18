@@ -6,3 +6,12 @@ Day 1 [17.11.2023]
   => Coding Ninjas - Sum or Products
 
   => Code Chef - Finding Shoes
+
+Day 2 [18.11.2023]
+
+  => Leet Code - Valid Palindrome
+
+  => Coding Ninjas - Pair Sum
+
+  => Code Chef - Minimum number of cars
+
