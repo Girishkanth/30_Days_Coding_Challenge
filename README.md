@@ -15,3 +15,11 @@ Day 2 [18.11.2023]
 
   => Code Chef - Minimum number of cars
 
+Day 3 [19.11.2023]
+
+  => Leet Code - Missing Number
+
+  => Coding Ninjas - Beautiful String
+
+  => Code Chef - Qualify the Round
+
