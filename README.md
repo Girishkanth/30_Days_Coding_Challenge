@@ -23,3 +23,11 @@ Day 3 [19.11.2023]
 
   => Code Chef - Qualify the Round
 
+Day 4 [20.11.2023]
+
+  => Leet Code - Word Pattern
+
+  => Coding Ninjas - Binary Search
+
+  => Code Chef - Bath in Winter
+
