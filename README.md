@@ -39,3 +39,11 @@ Day 5 [21.11.2023]
 
   => Code Chef - ChefScore
 
+Day 6 [22.11.2023]
+
+  => Leet Code - Ransome Notes
+
+  => Coding Ninjas - SetBits
+
+  => Code Chef - Election in Chefland
+
