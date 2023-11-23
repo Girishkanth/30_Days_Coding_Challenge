@@ -47,3 +47,11 @@ Day 6 [22.11.2023]
 
   => Code Chef - Election in Chefland
 
+Day 7 [23.11.2023]
+
+  => Leet Code - Isomorphic Strings 
+
+  => Coding Ninjas - Modular Exponentiation
+  
+  => Code Chef - Discus Throw
+
