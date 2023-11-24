@@ -54,4 +54,12 @@ Day 7 [23.11.2023]
   => Coding Ninjas - Modular Exponentiation
   
   => Code Chef - Discus Throw
+  
+Day 8 [24.11.2023]
+
+  => Leet Code - First Bad Version
+
+  => Coding Ninjas - Find Good 
+  
+  => Code Chef - Nibble
 
