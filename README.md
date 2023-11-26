@@ -62,4 +62,13 @@ Day 8 [24.11.2023]
   => Coding Ninjas - Find Good 
   
   => Code Chef - Nibble
+  
+Day 9 [26.11.2023]
+
+  => Leet Code - Rotate Image
+
+  => Coding Ninjas - Set Matrix Zeroes
+  
+  => Code Chef - Polthief
+  
 
