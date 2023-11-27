@@ -71,4 +71,10 @@ Day 9 [26.11.2023]
   
   => Code Chef - Polthief
   
+Day 10 [27.11.2023]
 
+  => Leet Code - Multiply Strings
+
+  => Coding Ninjas - Allocate Books
+  
+  => Code Chef - Sunday Brunch
