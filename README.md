@@ -86,3 +86,11 @@ Day 11 [28.11.2023]
   => Coding Ninjas - Sort 0 1 2
   
   => Code Chef - TSort
+  
+Day 12 [30.11.2023]
+
+  => Leet Code - Acronym or not
+
+  => Coding Ninjas - Sum of max & min
+  
+  => Code Chef - 
