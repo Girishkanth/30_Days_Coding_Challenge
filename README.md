@@ -93,4 +93,4 @@ Day 12 [30.11.2023]
 
   => Coding Ninjas - Sum of max & min
   
-  => Code Chef - 
+  => Code Chef - Candy Distribution
