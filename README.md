@@ -94,3 +94,12 @@ Day 12 [30.11.2023]
   => Coding Ninjas - Sum of max & min
   
   => Code Chef - Candy Distribution
+  
+Day 13 [1.12.2023]
+
+  => Leet Code - Valid Perfect Square
+
+  => Coding Ninjas - Intersection of 2 sorted Arrays
+  
+  => Code Chef - Weights
+  
