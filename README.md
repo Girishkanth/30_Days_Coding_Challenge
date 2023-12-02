@@ -103,3 +103,11 @@ Day 13 [1.12.2023]
   
   => Code Chef - Weights
   
+Day 14 [2.12.2023]
+
+  => Leet Code - Search Insert Position 
+
+  => Coding Ninjas - Rotate Array
+  
+  => Code Chef - Small Factorials
+  
