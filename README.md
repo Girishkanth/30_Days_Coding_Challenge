@@ -111,3 +111,11 @@ Day 14 [2.12.2023]
   
   => Code Chef - Small Factorials
   
+Day 15 [4.12.2023]
+
+  => Leet Code - Climbing Stairs
+
+  => Coding Ninjas - Average Marks
+  
+  => Code Chef - Online or Offline
+  
