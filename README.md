@@ -119,3 +119,12 @@ Day 15 [4.12.2023]
   
   => Code Chef - Online or Offline
   
+  
+Day 16 [6.12.2023]
+
+  => Leet Code - Find the peaks
+
+  => Coding Ninjas - Magic Index
+  
+  => Code Chef - Too many floors
+  
