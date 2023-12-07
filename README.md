@@ -128,3 +128,11 @@ Day 16 [6.12.2023]
   
   => Code Chef - Too many floors
   
+Day 17 [7.12.2023]
+
+  => Leet Code - Faulty Keyboard
+
+  => Coding Ninjas - Find Character Case
+  
+  => Code Chef - Cup Finals
+  
