@@ -136,3 +136,11 @@ Day 17 [7.12.2023]
   
   => Code Chef - Cup Finals
   
+Day 18 [8.12.2023]
+
+  => Leet Code - Calculate Delayed Arrival Time
+
+  => Coding Ninjas - Bubble Sort
+  
+  => Code Chef - Survival Time
+  
