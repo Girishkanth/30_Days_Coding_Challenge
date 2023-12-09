@@ -144,3 +144,11 @@ Day 18 [8.12.2023]
   
   => Code Chef - Survival Time
   
+Day 19 [9.12.2023]
+
+  => Leet Code - Circular Strings
+
+  => Coding Ninjas - Zero Matrix
+  
+  => Code Chef - Trade Surplus
+  
