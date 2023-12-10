@@ -152,3 +152,11 @@ Day 19 [9.12.2023]
   
   => Code Chef - Trade Surplus
   
+Day 20 [10.12.2023]
+
+  => Leet Code - 
+  
+  => Coding Ninjas - Unique Paths
+  
+  => Code Chef - Speed Limit Test
+  
