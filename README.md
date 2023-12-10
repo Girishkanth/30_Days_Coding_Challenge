@@ -154,7 +154,7 @@ Day 19 [9.12.2023]
   
 Day 20 [10.12.2023]
 
-  => Leet Code - 
+  => Leet Code - Buy Two Chocolates
   
   => Coding Ninjas - Unique Paths
   
