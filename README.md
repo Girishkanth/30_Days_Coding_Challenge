@@ -160,3 +160,11 @@ Day 20 [10.12.2023]
   
   => Code Chef - Speed Limit Test
   
+Day 21 [11.12.2023]
+
+  => Leet Code - Total Distance Travelled
+  
+  => Coding Ninjas - Reverse The Array
+  
+  => Code Chef - Airline
+  
