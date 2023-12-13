@@ -168,3 +168,11 @@ Day 21 [11.12.2023]
   
   => Code Chef - Airline
   
+Day 22 [13.12.2023]
+
+  => Leet Code - Sort Colors
+  
+  => Coding Ninjas - Sort 0 1 2
+  
+  => Code Chef - Cyclic Quadrilateral
+  
