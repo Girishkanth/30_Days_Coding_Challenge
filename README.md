@@ -184,3 +184,12 @@ Day 23 [15.12.2023]
   
   => Code Chef - Building Race
   
+  
+Day 24 [16.12.2023]
+
+  => Leet Code - Prime in Diagonal
+  
+  => Coding Ninjas - BFS in Graph
+  
+  => Code Chef - Chef Eren
+  
