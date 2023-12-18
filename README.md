@@ -193,3 +193,11 @@ Day 24 [16.12.2023]
   
   => Code Chef - Chef Eren
   
+Day 25 [18.12.2023]
+
+  => Leet Code - Fizz Buzz
+  
+  => Coding Ninjas - Flip Bits
+  
+  => Code Chef - Min No. of Coins
+  
